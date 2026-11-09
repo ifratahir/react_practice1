@@ -1,6 +1,5 @@
-import './App.css'
-import Button from './Button'
 import { useState } from 'react'
+import Button from './Button'
 import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
@@ -20,7 +19,7 @@ function App() {
         <div>
           <h1>Welcome to my React app</h1>
           <p>I am learning React and Git.</p>
-           <Button label="Click me" />
+          <Button label="Click me" />
         </div>
         <button
           type="button"
