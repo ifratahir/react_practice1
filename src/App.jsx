@@ -115,6 +115,9 @@ function App() {
 
       <div className="ticks"></div>
       <section id="spacer"></section>
+       <footer className="site-footer">
+        <p>Built by Ifra while learning React and Git.</p>
+      </footer>
     </>
   )
 }
